@@ -4,5 +4,3 @@
 - Corn
 - Carrots
 - Tomatoes
-- Salt
-- Pepper
