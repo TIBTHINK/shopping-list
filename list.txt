@@ -1,6 +1,8 @@
-- Bread
+- Rolls
 - Chicken
 - Mushrooms
 - Corn
 - Carrots
 - Tomatoes
+- Salt
+- Pepper
