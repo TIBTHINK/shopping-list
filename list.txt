@@ -1,5 +1,7 @@
-- Bread
+- Rolls
 - Steak
 - Chicken
 - Mushrooms
 - Corn
+- Salt
+- Pepper
